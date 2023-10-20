@@ -1,0 +1,31 @@
+C:\Moje\Garden Shop\Garden Shop\bin\Debug\net7.0\appsettings.Development.json
+C:\Moje\Garden Shop\Garden Shop\bin\Debug\net7.0\appsettings.json
+C:\Moje\Garden Shop\Garden Shop\bin\Debug\net7.0\Garden Shop.staticwebassets.runtime.json
+C:\Moje\Garden Shop\Garden Shop\bin\Debug\net7.0\Garden Shop.exe
+C:\Moje\Garden Shop\Garden Shop\bin\Debug\net7.0\Garden Shop.deps.json
+C:\Moje\Garden Shop\Garden Shop\bin\Debug\net7.0\Garden Shop.runtimeconfig.json
+C:\Moje\Garden Shop\Garden Shop\bin\Debug\net7.0\Garden Shop.dll
+C:\Moje\Garden Shop\Garden Shop\bin\Debug\net7.0\Garden Shop.pdb
+C:\Moje\Garden Shop\Garden Shop\obj\Debug\net7.0\Garden Shop.csproj.AssemblyReference.cache
+C:\Moje\Garden Shop\Garden Shop\obj\Debug\net7.0\Garden Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Moje\Garden Shop\Garden Shop\obj\Debug\net7.0\Garden Shop.AssemblyInfoInputs.cache
+C:\Moje\Garden Shop\Garden Shop\obj\Debug\net7.0\Garden Shop.AssemblyInfo.cs
+C:\Moje\Garden Shop\Garden Shop\obj\Debug\net7.0\Garden Shop.csproj.CoreCompileInputs.cache
+C:\Moje\Garden Shop\Garden Shop\obj\Debug\net7.0\Garden Shop.MvcApplicationPartsAssemblyInfo.cache
+C:\Moje\Garden Shop\Garden Shop\obj\Debug\net7.0\Garden Shop.RazorAssemblyInfo.cache
+C:\Moje\Garden Shop\Garden Shop\obj\Debug\net7.0\Garden Shop.RazorAssemblyInfo.cs
+C:\Moje\Garden Shop\Garden Shop\obj\Debug\net7.0\staticwebassets\msbuild.Garden Shop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Moje\Garden Shop\Garden Shop\obj\Debug\net7.0\staticwebassets\msbuild.build.Garden Shop.props
+C:\Moje\Garden Shop\Garden Shop\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Garden Shop.props
+C:\Moje\Garden Shop\Garden Shop\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Garden Shop.props
+C:\Moje\Garden Shop\Garden Shop\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Moje\Garden Shop\Garden Shop\obj\Debug\net7.0\staticwebassets.build.json
+C:\Moje\Garden Shop\Garden Shop\obj\Debug\net7.0\staticwebassets.development.json
+C:\Moje\Garden Shop\Garden Shop\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Moje\Garden Shop\Garden Shop\obj\Debug\net7.0\scopedcss\bundle\Garden Shop.styles.css
+C:\Moje\Garden Shop\Garden Shop\obj\Debug\net7.0\scopedcss\projectbundle\Garden Shop.bundle.scp.css
+C:\Moje\Garden Shop\Garden Shop\obj\Debug\net7.0\Garden Shop.dll
+C:\Moje\Garden Shop\Garden Shop\obj\Debug\net7.0\refint\Garden Shop.dll
+C:\Moje\Garden Shop\Garden Shop\obj\Debug\net7.0\Garden Shop.pdb
+C:\Moje\Garden Shop\Garden Shop\obj\Debug\net7.0\Garden Shop.genruntimeconfig.cache
+C:\Moje\Garden Shop\Garden Shop\obj\Debug\net7.0\ref\Garden Shop.dll
